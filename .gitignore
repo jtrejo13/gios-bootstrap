@@ -1,0 +1,68 @@
+# Compiled object files
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Executable files
+*.out
+*.exe
+*.dll
+*.so
+*.dylib
+
+# Libraries
+*.lib
+*.a
+*.la
+
+# Debug files
+*.dSYM/
+*.stackdump
+
+# Temporary files
+*.tmp
+*.temp
+
+# Backup files
+*~
+*.bak
+*.swp
+*.swo
+*.orig
+
+# Generated files
+*.d
+*.dep
+*.map
+
+# Logs
+*.log
+
+# Build directories
+/build/
+/dist/
+/bin/
+/lib/
+
+# IDE specific files (optional)
+.vscode/
+.idea/
+*.code-workspace
+
+# CMake generated files
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+
+# Auto-generated files by configure script
+config.h
+config.log
+config.status
+configure
+
+# Auto-generated makefiles
+Make​⬤
