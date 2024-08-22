@@ -1,12 +1,13 @@
 {
 	"name": "gios_devcontainer",
-	"context": "..",
-	"dockerFile": "../Dockerfile",
-	"runArgs": [
-		"--cap-add=SYS_PTRACE",
-		"--security-opt",
-		"seccomp=unconfined"
-	],
+	"build": {
+		"dockerfile": "Dockerfile",
+		"context": "..",
+		"args": {
+			"cap-add": "SYS_PTRACE",
+			"security-opt": "seccomp=unconfined"
+		}
+	},
 	"customizations": {
 		"vscode": {
 			"extensions": [
