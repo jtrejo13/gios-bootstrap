@@ -1,5 +1,7 @@
 # GIOS Bootsrap
 
+Bootstrap codebase to quickly get the GIOS development environment up and running. 
+
 ## Development Environment with GitHub Codespaces
 
 This project is configured to work seamlessly with GitHub Codespaces using a development container. The `.devcontainer/devcontainer.json` file defines the environment, ensuring that all necessary tools and extensions are available.
