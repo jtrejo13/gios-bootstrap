@@ -16,6 +16,7 @@ This is a simple C project demonstrating a basic “Hello, World!” program, al
 
 The project is organized into the following directories:
 
+```
 project/
 ├── include/              # Header files
 │   └── hello.h
@@ -33,6 +34,7 @@ project/
 ├── setup.sh              # Script to set up the environment in the Docker container
 ├── Makefile              # Build instructions
 └── README.md             # Project description
+```
 
 ## Getting Started
 
