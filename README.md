@@ -12,8 +12,6 @@ This project is configured to work seamlessly with GitHub Codespaces using a dev
 2. The development container will be automatically built and configured according to the `Dockerfile` and `setup.sh`.
 3. Once the environment is ready, you can build, run, and test your code using the standard `make` commands.
 
-This is a simple C project demonstrating a basic “Hello, World!” program, along with unit testing using the munit framework.
-
 ## Project Structure
 
 The project is organized into the following directories:
