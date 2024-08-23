@@ -1,7 +1,7 @@
 {
 	"name": "gios_devcontainer",
 	"build": {
-		"dockerfile": "Dockerfile",
+		"dockerfile": "../Dockerfile",
 		"context": ".."
 	},
 	"runArgs": [
