@@ -56,13 +56,9 @@
 CMakeFiles/
 CMakeCache.txt
 cmake_install.cmake
-Makefile
 
 # Auto-generated files by configure script
 config.h
 config.log
 config.status
 configure
-
-# Auto-generated makefiles
-Make​⬤

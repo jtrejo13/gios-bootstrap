@@ -10,7 +10,8 @@ This project is configured to work seamlessly with GitHub Codespaces using a dev
 
 1. Open the project in GitHub Codespaces.
 2. The development container will be automatically built and configured according to the `Dockerfile` and `setup.sh`.
-3. Once the environment is ready, you can build, run, and test your code using the standard `make` commands.
+3. Create a `lib` directory and Run `git clone https://github.com/nemequ/munit.git lib/munit`
+4. Run `make run` to run the program. You should see it output `Hello, World!`
 
 ## Project Structure
 
