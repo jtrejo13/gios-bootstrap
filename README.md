@@ -1,4 +1,4 @@
-# GIOS Bootsrap
+# GIOS Bootstrap
 
 Bootstrap codebase to quickly get the GIOS development environment up and running. 
 
